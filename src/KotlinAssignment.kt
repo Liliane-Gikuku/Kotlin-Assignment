@@ -5,7 +5,7 @@ fun main (){
     Interestingfact("Magic voice")
 }
 fun salutation(name:String) {
-    println("Hello" + name)
+    println("Hello $name")
 }
 
 fun modulus(a:Int,b:Int){
